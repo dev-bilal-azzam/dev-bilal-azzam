@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalazam26&label=Profile%20views&color=0e75b6&style=flat" alt="bilalazam26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalazam26" alt="bilalazam26" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/bilalmo79853783" target="blank"><img src="https://img.shields.io/twitter/follow/bilalmo79853783?logo=twitter&style=for-the-badge" alt="bilalmo79853783" /></a> </p>
 
