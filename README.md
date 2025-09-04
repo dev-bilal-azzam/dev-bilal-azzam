@@ -17,13 +17,13 @@
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
-- 👨‍💻 All of my projects are available at [Github.com/Bilalazam26](Github.com/Bilalazam26)
+- 👨‍💻 All of my projects are available at [Github](Github.com/Bilalazam26)
 
 - 💬 Ask me about **Android SDK, Jetpack Compose**
 
 - 📫 How to reach me **blalazam065@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19DkM53JP3toRAkghiq9-pCEnbMi_v6FK/view?usp=sharing](https://drive.google.com/file/d/1aVKss9kBGPDjVjf_q5KnRzN2XuWCBkxa/view?usp=sharing)
+- 📄 Know about my experiences  [My resume](https://drive.google.com/file/d/1WCHy2_myJEi1QnY6BBb2LAeU5i5imoac/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
