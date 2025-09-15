@@ -4,18 +4,16 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20|%20Android%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=528&height=45&color=5cf77e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer|Mobile%20Apps%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=528&height=45&color=5cf77e&vCenter=true&size=22"></a>
 </p> 
 
-<h3 align="center">A passionate Software Engineer | Android Developer from Egypt</h3>
+<h3 align="center">Software Engineer | Mobile App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalazam26&label=Profile%20views&color=0e75b6&style=flat" alt="bilalazam26" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BilalAzam26&label=Profile%20views&color=0e75b6&style=flat" alt="dev-bilal-azzam" /> </p>
 
 
 
-<p align="left"> <a href="https://twitter.com/Bilal_Azzam" target="blank"><img src="https://img.shields.io/twitter/follow/bilalmo79853783?logo=twitter&style=for-the-badge" alt="bilalmo79853783" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter, Dart**
+<p align="left"> <a href="https://twitter.com/Bilal_Azzam" target="blank"><img src="https://img.shields.io/twitter/follow/Bilal_Azzam?logo=twitter&style=for-the-badge" alt="Bilal_Azzam" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Github](Github.com/dev-bilal-azzam)
 
