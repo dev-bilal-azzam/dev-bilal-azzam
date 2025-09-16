@@ -33,8 +33,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-bilal-azzam&show_icons=true&title_color=fff&icon_color=00a2ed&text_color=eee&bg_color=151515&locale=en&layout=compact" alt="dev-bilal-azzam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-bilal-azzam&show_icons=true&bg_color=151515&locale=en&layout=compact" alt="dev-bilal-azzam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-bilal-azzam&show_icons=true&title_color=fff&icon_color=00a2ed&text_color=eee&bg_color=151515&locale=en" alt="dev-bilal-azzam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-bilal-azzam&show_icons=true&bg_color=151515&locale=en" alt="dev-bilal-azzam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-bilal-azzam&title_color=fff&icon_color=00a2ed&text_color=9f9f9f&bg_color=151515" alt="dev-bilal-azzam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-bilal-azzam&show_icons=tru&bg_color=151515" alt="dev-bilal-azzam" /></p>
