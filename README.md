@@ -3,39 +3,69 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer|Mobile%20Apps%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=528&height=45&color=5cf77e&vCenter=true&size=22"></a>
 </p> 
 
-<h3 align="center">Software Engineer | Mobile App Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BilalAzam26&label=Profile%20views&color=0e75b6&style=flat" alt="dev-bilal-azzam" /> </p>
 
 
+---
 
-<p align="left"> <a href="https://twitter.com/Bilal__Azzam" target="blank"><img src="https://img.shields.io/twitter/follow/Bilal__Azzam?logo=twitter&style=for-the-badge" alt="Bilal__Azzam" /></a> </p>
+###  Professional Summary
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/dev-bilal-azzam?tab=repositories)
+Software Engineer and Mobile Applications Developer skilled in building high-performance, Scalable and
+Maintainable mobile applications. Strong focus on clean, efficient code. Eager to contribute to innovative
+applications and laern more.
 
-- 💬 Ask me about **Android SDK, Jetpack Compose**
+Know about me  [My resume](https://drive.google.com/file/d/1dD71UVd5bQrpRVJkmXQmkCyff3ngk0xD/view?usp=sharing)
 
-- 📫 How to reach me **bilal.mohammed.azzam@gmail.com**
+---
 
-- 📄 Know about my experiences  [My resume](https://drive.google.com/file/d/1dD71UVd5bQrpRVJkmXQmkCyff3ngk0xD/view?usp=sharing)
+###  Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Bilal__Azzam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bilal__Azzam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev-bilal-azzam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-bilal-azzam" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100008826156786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100008826156786" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F24E1E?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines-FF6F00?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Koin-007ACC?style=for-the-badge&logo=dependabot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-FF4E3E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-007ACC?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+---
+### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-bilal-azzam&show_icons=true&bg_color=151515&locale=en&layout=compact" alt="dev-bilal-azzam" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-bilal-azzam&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-bilal-azzam&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-bilal-azzam&show_icons=true&theme=radical"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-bilal-azzam&show_icons=true&bg_color=151515&locale=en" alt="dev-bilal-azzam" /></p>
+---
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=dev-bilal-azzam" alt="dev-bilal-azzam" /></p>
+### 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-bilal-azzam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bilal.mohammed.azzam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Bilal__Azzam">
+    <img src="https://img.shields.io/badge/Twitter-0099B5?&style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://fb.com/profile.php?id=100008826156786">
+    <img src="https://img.shields.io/badge/Facebook-4444FF?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
