@@ -13,7 +13,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/Bilal_Azzam" target="blank"><img src="https://img.shields.io/twitter/follow/Bilal_Azzam?logo=twitter&style=for-the-badge" alt="Bilal_Azzam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Bilal__Azzam" target="blank"><img src="https://img.shields.io/twitter/follow/Bilal__Azzam?logo=twitter&style=for-the-badge" alt="Bilal__Azzam" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Github](Github.com/dev-bilal-azzam)
 
@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bilalmo79853783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilalmo79853783" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bilal-mohammed-azzam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal-mohammed-azzam" height="30" width="40" /></a>
+<a href="https://twitter.com/Bilal__Azzam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bilal__Azzam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-bilal-azzam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-bilal-azzam" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100008826156786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100008826156786" height="30" width="40" /></a>
 </p>
 
