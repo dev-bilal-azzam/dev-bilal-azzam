@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/Bilal__Azzam" target="blank"><img src="https://img.shields.io/twitter/follow/Bilal__Azzam?logo=twitter&style=for-the-badge" alt="Bilal__Azzam" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Github](Github.com/dev-bilal-azzam)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/dev-bilal-azzam?tab=repositories)
 
 - 💬 Ask me about **Android SDK, Jetpack Compose**
 
