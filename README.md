@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Android SDK, Jetpack Compose**
 
-- 📫 How to reach me **blalazam065@gmail.com**
+- 📫 How to reach me **bilal.mohammed.azzam@gmail.com**
 
 - 📄 Know about my experiences  [My resume](https://drive.google.com/file/d/1WCHy2_myJEi1QnY6BBb2LAeU5i5imoac/view?usp=sharing)
 
