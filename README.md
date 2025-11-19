@@ -8,7 +8,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer|Mobile%20Apps%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=528&height=45&color=5cf77e&vCenter=true&size=22"></a>
 </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BilalAzam26&label=Profile%20views&color=0e75b6&style=flat" alt="dev-bilal-azzam" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BilalAzam26&style=flat&color=3010A0" style="height:30px; object-fit:contain;" alt="dev-bilal-azzam" /> &nbsp; &nbsp;
+  <a href="https://drive.google.com/file/d/1F9GWx5Z_tLzkd6_SX0-xsr2-LZoVRour/view?usp=sharing">
+      <img src="https://img.shields.io/badge/My Resume-005520?style=flat&logo=googledrive&logoColor=white" style="height:30px; object-fit:contain;"/></a>
+</p>
 
 
 ---
@@ -19,30 +23,35 @@ Software Engineer and Mobile Applications Developer skilled in building high-per
 Maintainable mobile applications. Strong focus on clean, efficient code. Eager to contribute to innovative
 applications and laern more.
 
-Know about me  [My resume](https://drive.google.com/file/d/1dD71UVd5bQrpRVJkmXQmkCyff3ngk0xD/view?usp=sharing)
-
 ---
 
 ###  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F24E1E?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coroutines-FF6F00?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Koin-007ACC?style=for-the-badge&logo=dependabot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-FF4E3E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-007ACC?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-007ACC?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,jetpackcompose,android,dart,flutter,figma,firebase,mongodb,postgresql,spring,postman,github,git&perline=14" style="height:115px;"/>
+  </p>
+  
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dev-bilal-azzam/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Bilal__Azzam" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="dev.bilal.azzam@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://fb.com/profile.php?id=100008826156786" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -53,19 +62,8 @@ Know about me  [My resume](https://drive.google.com/file/d/1dD71UVd5bQrpRVJkmXQm
 
 ---
 
-### 🌐 Connect with Me
+###
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dev-bilal-azzam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bilal.mohammed.azzam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Bilal__Azzam">
-    <img src="https://img.shields.io/badge/Twitter-0099B5?&style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://fb.com/profile.php?id=100008826156786">
-    <img src="https://img.shields.io/badge/Facebook-4444FF?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/dev-bilal-azzam/dev-bilal-azzam/output/snake.svg" alt="Snake animation" />
 </p>
