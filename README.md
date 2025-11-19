@@ -61,9 +61,3 @@ applications and laern more.
 </p>
 
 ---
-
-###
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dev-bilal-azzam/dev-bilal-azzam/output/snake.svg" alt="Snake animation" />
-</p>
