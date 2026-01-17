@@ -15,7 +15,7 @@
 </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ###  Professional Summary
 
@@ -23,7 +23,7 @@ Software Engineer and Mobile Applications Developer skilled in building high-per
 Maintainable mobile applications. Strong focus on clean, efficient code. Eager to contribute to innovative
 applications and laern more.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ###  Tech Stack & Tools
 
@@ -31,7 +31,7 @@ applications and laern more.
     <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,java,jetpackcompose,android,dart,flutter,figma,firebase,mongodb,postgresql,spring,postman,github,git&perline=14" style="height:115px;"/>
   </p>
   
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ### 🌐 Connect with Me
 
@@ -50,14 +50,21 @@ applications and laern more.
   </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-bilal-azzam&theme=2077" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-bilal-azzam&theme=aura_dark" /></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-bilal-azzam&theme=aura_dark" /></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-bilal-azzam&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-bilal-azzam&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-bilal-azzam&show_icons=true&theme=radical"/>
-</p>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
