@@ -63,14 +63,14 @@ applications and laern more.
 
 <table>
   <tr>
-    <td><img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-bilal-azzam&theme=2077" /></td>
-    <td><img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-bilal-azzam&theme=2077" /></td>
+    <td><img align="center" width="1000" src="https://nirzak-streak-stats.vercel.app/?user=dev-bilal-azzam&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img align="center" width="1000" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-bilal-azzam&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" /></td>
+    <td><img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-bilal-azzam&theme=2077" /></td>
+    <td><img align="center" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-bilal-azzam&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" /></td>
   </tr>
 </table>
 
