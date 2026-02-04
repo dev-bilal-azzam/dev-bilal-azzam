@@ -69,8 +69,8 @@ applications and laern more.
 
 <table>
   <tr>
-    <td><img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-bilal-azzam&theme=2077" /></td>
-    <td><img align="center" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-bilal-azzam&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" /></td>
+    <td><img width="400" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-bilal-azzam&theme=2077" /></td>
+    <td><img align="center" width="600" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-bilal-azzam&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" /></td>
   </tr>
 </table>
 
